@@ -46,3 +46,4 @@ $dom->appendChild($order);
 $dom->save($outputFilePath);
 
 echo "$outputFilePath has been successfully created";
+?>
